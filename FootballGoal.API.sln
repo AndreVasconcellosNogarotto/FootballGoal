@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballGoal.API", "FootballGoal.API\FootballGoal.API.csproj", "{AD5D1822-311B-4414-83C3-760F5616DC3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballGoal.Teste", "FootballGoal.Teste\FootballGoal.Teste.csproj", "{2E7F03A3-73BE-44B0-98C4-AF9D0CF021A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5D1822-311B-4414-83C3-760F5616DC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5D1822-311B-4414-83C3-760F5616DC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5D1822-311B-4414-83C3-760F5616DC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5D1822-311B-4414-83C3-760F5616DC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E7F03A3-73BE-44B0-98C4-AF9D0CF021A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7F03A3-73BE-44B0-98C4-AF9D0CF021A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7F03A3-73BE-44B0-98C4-AF9D0CF021A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7F03A3-73BE-44B0-98C4-AF9D0CF021A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9660170E-2FAC-4B44-BAA2-145919601E19}
+	EndGlobalSection
+EndGlobal
